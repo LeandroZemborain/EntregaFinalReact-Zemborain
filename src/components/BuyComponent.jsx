@@ -33,8 +33,7 @@ const BuyComponent = () => {
   return (
     <Fragment>
       <div className="row">
-        <div className="col-10"></div>
-        <div className="col-3 m-5">
+        <div className="col-10 m-5">
           <table>
             <tbody>
               <tr>

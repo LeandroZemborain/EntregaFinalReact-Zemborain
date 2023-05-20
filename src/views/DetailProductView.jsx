@@ -39,7 +39,7 @@ const DetailProductView = () => {
                   <h5 className="card-title">{title}</h5>
                   <p className="card-text">{description}</p>
                   <p className="card-text">
-                    <small className="text-muted">$ {price*amount}</small>
+                    <small className="text-muted">$ {price}</small>
                   </p>
                   <p className="h7 my-3" style={{fontSize: 15 +"px" }}>
                     <span > Cantidad: </span>
